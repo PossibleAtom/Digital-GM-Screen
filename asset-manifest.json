@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/digital-gm-screen/static/css/main.5f361e03.chunk.css",
+    "main.js": "/digital-gm-screen/static/js/main.98170879.chunk.js",
+    "main.js.map": "/digital-gm-screen/static/js/main.98170879.chunk.js.map",
+    "runtime-main.js": "/digital-gm-screen/static/js/runtime-main.b87527d9.js",
+    "runtime-main.js.map": "/digital-gm-screen/static/js/runtime-main.b87527d9.js.map",
+    "static/js/2.fde750f6.chunk.js": "/digital-gm-screen/static/js/2.fde750f6.chunk.js",
+    "static/js/2.fde750f6.chunk.js.map": "/digital-gm-screen/static/js/2.fde750f6.chunk.js.map",
+    "index.html": "/digital-gm-screen/index.html",
+    "precache-manifest.6d6a80ccb0ddc5972327b25066c8b2e2.js": "/digital-gm-screen/precache-manifest.6d6a80ccb0ddc5972327b25066c8b2e2.js",
+    "service-worker.js": "/digital-gm-screen/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/digital-gm-screen/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.fde750f6.chunk.js.LICENSE.txt": "/digital-gm-screen/static/js/2.fde750f6.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/digital-gm-screen/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b87527d9.js",
+    "static/js/2.fde750f6.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.98170879.chunk.js"
+  ]
+}
