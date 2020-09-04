@@ -10,8 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="712f5ffe-d806-4994-8693-72ad6bb67e4b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="712f5ffe-d806-4994-8693-72ad6bb67e4b" name="Default Changelist" comment="Update gitignore for some local files">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +51,7 @@
       <updated>1599179535093</updated>
       <workItem from="1599179538195" duration="783000" />
       <workItem from="1599181671596" duration="2949000" />
-      <workItem from="1599185646902" duration="778000" />
+      <workItem from="1599185646902" duration="1310000" />
     </task>
     <task id="LOCAL-00001" summary="Adds files for generic react project">
       <created>1599185860859</created>
@@ -61,7 +60,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599185860859</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Update gitignore for some local files">
+      <created>1599186460025</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1599186460025</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,20 +87,25 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Adds files for generic react project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adds files for generic react project" />
+    <MESSAGE value="Update gitignore for some local files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update gitignore for some local files" />
   </component>
   <component name="WindowStateProjectService">
     <state x="932" y="601" key="#Notifications" timestamp="1599185910191">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state x="932" y="601" key="#Notifications/0.23.2560.1417/-1792.421.1792.1097@0.23.2560.1417" timestamp="1599185910191" />
+    <state x="304" y="123" width="1474" height="1217" key="DiffContextDialog" timestamp="1599186959463">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="304" y="123" width="1474" height="1217" key="DiffContextDialog/0.23.2560.1417/-1792.421.1792.1097@0.23.2560.1417" timestamp="1599186959463" />
     <state x="641" y="471" key="Vcs.Push.Dialog.v2" timestamp="1599185892345">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state x="641" y="471" key="Vcs.Push.Dialog.v2/0.23.2560.1417/-1792.421.1792.1097@0.23.2560.1417" timestamp="1599185892345" />
-    <state x="717" y="527" key="git4idea.merge.GitPullDialog" timestamp="1599186264121">
+    <state x="717" y="527" key="git4idea.merge.GitPullDialog" timestamp="1599186478180">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state x="717" y="527" key="git4idea.merge.GitPullDialog/0.23.2560.1417/-1792.421.1792.1097@0.23.2560.1417" timestamp="1599186264121" />
+    <state x="717" y="527" key="git4idea.merge.GitPullDialog/0.23.2560.1417/-1792.421.1792.1097@0.23.2560.1417" timestamp="1599186478180" />
   </component>
 </project>
