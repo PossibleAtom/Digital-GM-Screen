@@ -2,12 +2,12 @@ import React from 'react';
 import StyledModuleContainer, {ModuleContent, ModuleTitle}from './style'
 
 const ModuleContainer = ({
+    moduleName,
     children,
 }) => (
      <StyledModuleContainer>
-         <ModuleTitle>Module Name</ModuleTitle>
+         <ModuleTitle>{moduleName || 'Module Name'}</ModuleTitle>
          <ModuleContent>
-             Hello World
              {children && children}
          </ModuleContent>
      </StyledModuleContainer>
