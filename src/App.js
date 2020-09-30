@@ -1,11 +1,11 @@
 import React from 'react';
 import './App.css';
-import ModuleContainer from './components/ModuleContainer';
+import ModuleContainer from './js/components/organisms/module-container';
 
 function App() {
   return (
     <div className="App">
-        <ModuleContainer><div>Testing</div></ModuleContainer>
+        <ModuleContainer moduleName='Example Module Name'><div>Example Module Content</div></ModuleContainer>
     </div>
   );
 }
