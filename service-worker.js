@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/digital-gm-screen/precache-manifest.6d6a80ccb0ddc5972327b25066c8b2e2.js"
+  "/digital-gm-screen/precache-manifest.8dfbb3c389f994d6a4097b56bb89e29f.js"
 );
 
 self.addEventListener('message', (event) => {
